@@ -5,6 +5,7 @@ body {
 main {
   display: flex;
   margin: 20px;
+  min-width: 360px;
 }
 
 main article:last-child {
